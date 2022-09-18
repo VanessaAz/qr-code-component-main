@@ -37,6 +37,7 @@ main {
     right: 0;
 }
 
-.attribution > a {
+.attribution-text, 
+.attribution-text > a {
     color: hsl(218, 44%, 22%);
 }
